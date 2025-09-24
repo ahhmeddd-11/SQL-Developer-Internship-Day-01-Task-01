@@ -1,4 +1,4 @@
-# Database & Dashboard Tasks
+# Task-01 Database & Dashboard Tasks
 
 This repository contains solutions for database schema design, data manipulation, and dashboard visualization tasks.  
 
